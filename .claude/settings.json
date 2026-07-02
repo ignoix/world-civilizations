@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm ~/Documents/Timeline/bom*.html && echo \"Removed bom-*.html from Timeline/\")",
+      "Bash(mv ~/Documents/Timeline ~/Documents/world-civilizations)",
+      "Bash(mv ~/Documents/China ~/Documents/china-history)",
+      "Bash(rm ~/Documents/world-civilizations/zhou.html)"
+    ],
+    "additionalDirectories": [
+      "/Users/Jui/Documents/Timeline"
+    ]
+  }
+}
